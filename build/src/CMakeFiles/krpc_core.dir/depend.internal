@@ -16,6 +16,7 @@ src/CMakeFiles/krpc_core.dir/Krpcchannel.cc.o
  ../src/include/Krpccontroller.h
  ../src/include/zookeeperutil.h
  /home/mspace/code/11mycode/Krpc/src/Krpcchannel.cc
+ /home/mspace/code/11mycode/Krpc/src/Krpcheader.pb.h
 src/CMakeFiles/krpc_core.dir/Krpcconfig.cc.o
  ../src/include/Krpcconfig.h
  /home/mspace/code/11mycode/Krpc/src/Krpcconfig.cc
@@ -23,6 +24,8 @@ src/CMakeFiles/krpc_core.dir/Krpccontroller.cc.o
  ../src/include/Krpccontroller.h
  /home/mspace/code/11mycode/Krpc/src/Krpccontroller.cc
 src/CMakeFiles/krpc_core.dir/Krpcheader.pb.cc.o
+ /home/mspace/code/11mycode/Krpc/src/Krpcheader.pb.cc
+ /home/mspace/code/11mycode/Krpc/src/Krpcheader.pb.h
 src/CMakeFiles/krpc_core.dir/Krpcprovider.cc.o
  ../src/include/KrpcLogger.h
  ../src/include/Krpcapplication.h
@@ -31,6 +34,7 @@ src/CMakeFiles/krpc_core.dir/Krpcprovider.cc.o
  ../src/include/Krpccontroller.h
  ../src/include/Krpcprovider.h
  ../src/include/zookeeperutil.h
+ /home/mspace/code/11mycode/Krpc/src/Krpcheader.pb.h
  /home/mspace/code/11mycode/Krpc/src/Krpcprovider.cc
 src/CMakeFiles/krpc_core.dir/zookeeperutil.cc.o
  ../src/include/KrpcLogger.h
